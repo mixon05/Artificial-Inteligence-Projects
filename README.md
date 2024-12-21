@@ -1,0 +1,1 @@
+This project includes various AI algorithms implemented in Jupyter notebooks. The goal is to showcase different techniques in machine learning, deep learning, and other areas of artificial intelligence.
